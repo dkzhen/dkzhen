@@ -15,13 +15,7 @@
 </div>
 
 
-<h1>I'm a Backend Engineer
-👨‍💻 I’m currently undergraduate informatics student at STMIK Widya Pratama
-<br/>
-📚 I’m currently learning everything about web and mobile technologies 😅
-<br/>
-💪🏼 Future Goals: Learn more technologies
-
+### I'm a Backend Engineer
 ---
 
 <div align="center">
