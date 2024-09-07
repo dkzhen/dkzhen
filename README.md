@@ -15,16 +15,22 @@
 </div>
 
 
-<h1>I'm a Fullstuck developar <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>
-<img align="right" alt="GIF" height="160px" margin="0px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br/>
-👨‍💻 I’m currently undergraduate informatics student at STMIK Widya Cipta Dharma
+<h1>I'm a Backend Engineer
+👨‍💻 I’m currently undergraduate informatics student at STMIK Widya Pratama
 <br/>
 📚 I’m currently learning everything about web and mobile technologies 😅
 <br/>
 💪🏼 Future Goals: Learn more technologies
 
 ---
+
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ###
 
