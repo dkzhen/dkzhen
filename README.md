@@ -15,11 +15,11 @@
 </div>
 
 
-🔗 Backend Engineer | Blockchain Enthusiast  
-🚀 Crafting APIs with Node.js, Slicing UI with NextJs, and building automation bots.  
-🔍 Exploring Blockchain (Solidity, Web3) and Dapps integrations.
-🌱 Learning more about scalable systems, APIs, and decentralized tech.  
-🎯 Let's innovate together!  
+<p>🔗 Backend Engineer | Blockchain Enthusiast</p>  
+<p>🚀 Crafting APIs with Node.js, Slicing UI with NextJs, and building automation bots.</p>  
+<p>🔍 Exploring Blockchain (Solidity, Web3) and Dapps integrations.</p>
+<p>🌱 Learning more about scalable systems, APIs, and decentralized tech.</p>  
+<p>🎯 Let's innovate together!.</p>
 
 ---
 
